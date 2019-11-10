@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cerberix.Caching.Core
+namespace Cerberix.Caching
 {
     public interface ICacher
     {

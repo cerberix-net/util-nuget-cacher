@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerberix.Caching.Core", "Cerberix.Caching.Core\Cerberix.Caching.Core.csproj", "{A4F00F0B-8138-4578-AEBA-3C8FB39E178D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerberix.Caching", "Cerberix.Caching\Cerberix.Caching.csproj", "{A4F00F0B-8138-4578-AEBA-3C8FB39E178D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cerberix.Caching.DotNet", "Cerberix.Caching.DotNet\Cerberix.Caching.DotNet.csproj", "{753C4D53-EE7B-4D9B-9EA8-78F6CB7B54A2}"
 EndProject

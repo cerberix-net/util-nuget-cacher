@@ -8,14 +8,14 @@
     <Description>core caching module for dot net standard</Description>
     <RepositoryUrl>https://github.com/cerberix-net/util-nuget-caching/</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseUrl>https://github.com/cerberix-net/util-nuget-caching/blob/master/LICENSE</PackageLicenseUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/cerberix-net/util-nuget-caching/master/img/cerberix.png</PackageIconUrl>
-    <PackageId>Cerberix.Caching.Core</PackageId>
-    <Product>Cerberix.Caching.Core</Product>
+    <PackageId>Cerberix.Caching</PackageId>
+    <Product>Cerberix.Caching</Product>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
   </PropertyGroup>
 

@@ -1,4 +1,4 @@
-﻿namespace Cerberix.Caching.Core
+﻿namespace Cerberix.Caching
 {
     public enum CacherItemPolicyType
     {
