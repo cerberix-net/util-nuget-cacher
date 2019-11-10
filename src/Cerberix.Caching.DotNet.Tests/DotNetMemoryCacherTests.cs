@@ -1,5 +1,4 @@
-﻿using Cerberix.Caching.Core;
-using Cerberix.Serialization.Core;
+﻿using Cerberix.Serialization;
 using Moq;
 using NUnit.Framework;
 
