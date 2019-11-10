@@ -8,7 +8,7 @@
     <Description>dotnet caching module for dot net standard</Description>
     <RepositoryUrl>https://github.com/cerberix-net/util-nuget-caching/</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.1</Version>
+    <Version>1.1.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
@@ -20,8 +20,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Cerberix.Caching.Core" Version="1.0.0" />
-    <PackageReference Include="Cerberix.Serialization.Core" Version="1.0.0" />
+    <PackageReference Include="Cerberix.Caching" Version="1.1.0" />
+    <PackageReference Include="Cerberix.Serialization" Version="1.1.0" />
     <PackageReference Include="System.Runtime.Caching" Version="4.5.0" />
   </ItemGroup>
 

@@ -2,8 +2,7 @@
 using System.Linq;
 using System.Runtime.Caching;
 using System.Runtime.CompilerServices;
-using Cerberix.Caching.Core;
-using Cerberix.Serialization.Core;
+using Cerberix.Serialization;
 
 [assembly: InternalsVisibleTo("Cerberix.Caching.DotNet.Tests")]
 
